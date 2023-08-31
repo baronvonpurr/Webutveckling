@@ -3,11 +3,13 @@ body{
 }
 
 p{
-    color:azure;
+    color:goldenrod;
 }
 
 h1{
     text-align: center;
+    font-size: 22px;
+    font-style: arial;
 }
 
 .altP{
@@ -15,9 +17,19 @@ h1{
 }
 
 text{
-    color: yellowgreen;
+    color: goldenrod;
 }
 
 .alt{
     text-align: center;
+}
+
+.ommig{
+    text-align: center;
+    color: goldenrod;
+    background-color: rgb(133, 30, 30);
+}
+
+.jagtycker{
+    text-align: right;
 }
